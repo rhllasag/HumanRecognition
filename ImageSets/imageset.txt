@@ -1,1 +1,1 @@
-/content/ssd_keras/data_generator_object_detection_2d/HumanRecognition/images/person_1.jpg
+/content/ssd_keras/data_generator_object_detection_2d/HumanRecognition/annotations/xmls/person_1
