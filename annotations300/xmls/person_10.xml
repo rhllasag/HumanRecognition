@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images300</folder>
+	<filename>person_10.jpg</filename>
+	<path>C:\Users\homer\Desktop\HumanRecognition\images300\person_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>68</ymin>
+			<xmax>165</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>
