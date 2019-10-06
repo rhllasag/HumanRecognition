@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images300</folder>
+	<folder>xmls</folder>
 	<filename>person_6.jpg</filename>
-	<path>C:\Users\homer\Desktop\HumanRecognition\images300\person_6.jpg</path>
+	<path>C:\Users\homer\Desktop\HumanRecognition\annotations300\xmls\person_6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
